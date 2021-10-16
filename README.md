@@ -7,7 +7,7 @@
 > Na etapa do Front End, foi utilizado o React com o Next para estilizar o site, onde foi definido usando os hooks do React toda a estilização e layout do projeto.
 
 📷Print do site em funcionamento, é possivel acessar o projeto ao baixar o projeto e usando o comando 'npm run dev' para abrir o localhost:3000📷:
-! [ediaristas](ediaristas/public/img/ediaristas.JPG)
+![ediaristas](ediaristas/public/img/ediaristas.JPG)
 
 🗃 **_Back End_** 🗃
 
