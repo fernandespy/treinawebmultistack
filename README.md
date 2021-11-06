@@ -25,5 +25,5 @@
 
 🤩 **_Skills obtidas_**🤩
 
-> Pude aprender um pouco sobre React, Next e React Native. O que me proporcionou um conhecimento melhor no Front End. E também pude aprender mais sobre Python com Django, linguagem e framework a qual decide dedicar minha carreira!
+> Pude aprender um pouco sobre React, Next e React Native. O que me proporcionou um conhecimento melhor no Front End. E também pude aprender mais sobre Python com Django!
 > Todos os agradecimentos a TreinaWeb!
