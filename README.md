@@ -1,29 +1,29 @@
 # TreinaWebMultiStack
 
-## Projeto e-diaristas
+## Project e-diaristas
 
 💻 **_Front End_** 💻
 
-> Na etapa do Front End, foi utilizado o React com o Next para estilizar o site, onde foi definido usando os hooks do React toda a estilização e layout do projeto.
+> In the Front End stage, React was used with Next to style the site, where all the styling and layout of the project was defined using React hooks.
 
-📷Print do site em funcionamento, é possivel acessar o projeto ao baixar o projeto e usando o comando _npm run dev_ para abrir o localhost:3000📷:
+📷Print from the working site, you can access the project by downloading the zip and using the _npm run dev_ command to open localhost:3000📷:
 ![ediaristas](ediaristas/public/img/ediaristas.JPG)
 
 🗃 **_Back End_** 🗃
 
-> Na etapa do Back End, foi dada a opção de escolher entre PHP, Python e Java, usando os frameworks, Laravel, Django e Spring. Eu escolhi o Python/Django, é a linguagem a qual escolhi e estou amando aprender. Com o Django foi criado um CRUD onde foi possivel cadastrar as diaristas do projeto, assim editar ou remover as mesmas. Pude aprender a criar uma API, na qual foi usada para juntar o Front End e o Back End.
+> In the Back End step, the option was given to choose between PHP, Python and Java, using the frameworks, Laravel, Django and Spring. I chose Python/Django, it's the language I chose and I'm loving learning. With Django a CRUD was created where it was possible to register the day workers of the project, being able to edit or remove them. I learned how to create an API, which was used to join the Front End and Back End.
 
-📷 Print do CRUD em execução, poderá ser executado estando dentro da venv, no caminho _\treinawebmultistack\ediaristas-backend\ediaristas_workshop_, uma vez no caminho, basta executar o comando '_python manage.py runserver_ **só funcionará dentro da venv** que irá lhe abrir o *http://127.0.0.1:8000/web/cadastrar_diarista* 📷:
+📷 Print of the running CRUD, can be executed from inside venv, in the path _\treinawebmultistack\ediaristas-backend\ediaristas_workshop_, once in the path, just run the command '_python manage.py runserver_ **will only work inside venv** which will open the *http://127.0.0.1:8000/web/cadastrar_diarista* 📷:
 ![cadastroCRUD](ediaristas/public/img/cadastroCRUD.JPG) ![edicaoDiaristas](ediaristas/public/img/editarCRUD.JPG)
 
 📲 **_Mobile_** 📲
 
-> No mobile foi usado o React Native para fazer a aplicação e usado o Expo para vizualizar o desenvolvimento do projeto.
+> On mobile, React Native was used to make the application and Expo to visualize the development of the project.
 
-📷 Print do app funcionando no dispositivo. Basta abrir a pasta e executar o comando #expo start 📷:
+📷 Print from the app running on the device. Just open the folder and run the command #expo start 📷:
 ![AppMobile](ediaristas/public/img/appmobile.jpg) ![AppMobile2](ediaristas/public/img/appmobile2.jpg)
 
-🤩 **_Skills obtidas_**🤩
+🤩 **_Skills Obtained_**🤩
 
-> Pude aprender um pouco sobre React, Next e React Native. O que me proporcionou um conhecimento melhor no Front End. E também pude aprender mais sobre Python com Django!
-> Todos os agradecimentos a TreinaWeb!
+> I was able to learn a little about React, Next and React Native. Which gave me a better understanding of the Front End. And I was also able to learn more about Python with Django!
+> All thanks to TreinaWeb!
